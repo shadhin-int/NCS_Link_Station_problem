@@ -1,23 +1,28 @@
 <h4>Activate Virtual Env </h4>
 
-`- source ./venv/bin/activate`
+```
+source ./venv/bin/activate
+```
 
 <h4> Run Program </h4>
 
+```
+pip install -r requirements.txt
+```
 
-`- pip install -r requirements.txt`
+```
+python3 main.py
+```
 
-`- python3 main.py`
-
-<h4> For Test: </h4>
+<h4> For Test </h4>
 
 ```
  python3 -m unittest -v
 ```
 
-<h4> Input: </h4>
+<h4> Input </h4>
 
-- Link_Station:
+ - Link_Station:
     ```
     [[0, 0, 10],
     [20, 20, 5],
