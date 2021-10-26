@@ -1,4 +1,9 @@
+<h4>Activate Virtual Env </h4>
+
+`- source ./venv/bin/activate`
+
 <h4> Run Program </h4>
+
 
 `- pip install -r requirements.txt`
 
